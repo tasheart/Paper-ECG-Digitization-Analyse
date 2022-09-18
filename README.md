@@ -5,4 +5,4 @@ Ahmet Tas, Yaren Alan (2022)
 ahmettas.cor@gmail.com
 yaren.alan@ogr.iu.edu.tr
 
-Plot Digitizer code that we integrated for the first part of our software belongs to respective developer. (corresponding licence texts is amongst the files)
+Plot Digitizer code that we integrated for the first part of our software belongs to respective developer (Seongmun Jung). (corresponding licence texts is amongst the files)
